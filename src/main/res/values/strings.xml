@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">flashcardapp</string>
+    <string name="welcome_to_flashcards">Welcome to Flashcards!</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="next">Next</string>
+    <string name="question">Question</string>
+    <string name="exit">Exit</string>
+    <string name="review_answers">Review Answers</string>
+    <string name="feedback_here">Feedback here</string>
+    <string name="you_scored_0_out_of_5">You scored 0 out of 5</string>
+</resources>
